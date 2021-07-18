@@ -3,9 +3,9 @@
 //team : angkrang
 //project_2_RGB
 
-int red   = 7;
-int green = 8;
-int blue  = 9;
+#define red   = 7;
+#define green = 8;
+#define blue  = 9;
 
 void setup() 
 {
